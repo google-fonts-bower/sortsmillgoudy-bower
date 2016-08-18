@@ -1,0 +1,17 @@
+{
+    "name": "sortsmillgoudy-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Barry Schwartz"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sortsmillgoudy-bower.git"
+    },
+    "description": "Sorts Mill Goudy font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
